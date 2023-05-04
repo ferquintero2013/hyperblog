@@ -1,1 +1,2 @@
-Hola este es un test para el curso de GIT y GITHUB
+Hola esta es una prueba para GIT
+Mañana agregaremos mas conocimiento
